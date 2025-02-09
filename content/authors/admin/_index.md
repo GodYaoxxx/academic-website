@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chengyao Deng（邓成耀）
+title: Chengyao Deng
 
 # Name pronunciation (optional)
 #name_pronunciation: Chengyao Deng
@@ -24,8 +24,7 @@ role: Graduate student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of High Energy Physics<br>
-  Chinese Academy of Sciences
+  - name: Chinese Academy of Sciences
     url: http://www.ihep.cas.cn/
 
 # Social network links
