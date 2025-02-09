@@ -86,10 +86,10 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
     summary: |
-          Thesis on _Research on 4D printing and software robot based on rheological memory characteristics of intelligent materials_. Supervised by [Dr Zhenkun Li](https://faculty.bjtu.edu.cn/9722/).
-        button:
-          text: 'Read Thesis'
-          url: 'https://example.com'
+      Thesis on _Research on 4D printing and software robot based on rheological memory characteristics of intelligent materials_. Supervised by [Dr Zhenkun Li](https://faculty.bjtu.edu.cn/9722/).
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
 work:
   - position: Research assistant
       company_name: Rheobot Laboratory
