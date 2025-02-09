@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 邓成耀
+title: Chengyao Deng（邓成耀）
 
 # Name pronunciation (optional)
-name_pronunciation: Chengyao Deng
+#name_pronunciation: Chengyao Deng
 
 # Full name (for SEO)
 first_name: Chengyao
@@ -190,4 +190,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Deng Chengyao is a graduate student at the Chinese Academy of Sciences. His research interests include Micro-nano Robots, Magnetic Soft Robots, 3D/4D Printing and Artificial Intelligence. During his undergraduate years, Deng Chengyao joined a laboratory to conduct research on magnetic robots and achieved rich results. After entering graduate school, he began exploring artificial intelligence technologies to uncover their applications in magnetic robots. He co-established the Rheobot Laboratory, dedicated to advancing research on magnetic robots, including ferrofluid robots and magnetic-responsive self-folding robots.
