@@ -24,7 +24,8 @@ role: Graduate student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of High Energy Physics, Chinese Academy of Sciences
+  - name: Institute of High Energy Physics<br>
+  Chinese Academy of Sciences
     url: http://www.ihep.cas.cn/
 
 # Social network links
