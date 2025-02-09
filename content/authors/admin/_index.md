@@ -72,10 +72,8 @@ education:
 
       Courses included:
       - Control and Application of Micro-Nano Robots, Bionic Nanomachine
-      - Pattern Recognition and Machine Learning, Deep Learning, Reinforcement 
-Learning and Applications
-      - Principle and 
-Algorithms of Artificial Intelligence, Advanced Artificial Intelligence
+      - Pattern Recognition and Machine Learning, Deep Learning, Reinforcement Learning and Applications
+      - Principle and Algorithms of Artificial Intelligence, Advanced Artificial Intelligence
   - area: BSc Mechanical Engineering
     institution: Beijing Jiaotong University
     date_start: 2018-09-01
