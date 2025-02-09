@@ -92,23 +92,23 @@ education:
       url: 'https://example.com'
 work:
   - position: Research assistant
-      company_name: Rheobot Laboratory
-      company_url: ''
-      company_logo: ''
-      date_start: 2022-07-01
-      date_end: Present
-      summary: |
-        Responsibilities include:
-        - Migrated infrastructure to a new data center
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    company_name: Rheobot Laboratory
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-07-01
+    date_end: Present
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Research assistant
     company_name: Beijing Key Laboratory of Flow and Heat Transfer of Phase Changing in Micro and Small Scale, Beijing Jiaotong University
     company_url: ''
     company_logo: ''
     date_start: 2020-01-01
     date_end: 2022-06-30
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
