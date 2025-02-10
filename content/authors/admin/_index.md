@@ -61,7 +61,7 @@ education:
   #    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being #published in 2 Springer journals.
   #  button:
   #    text: 'Read Thesis'
-  #    url: 'https://example.com'
+  #    url: 'uploads/Undergraduated Thesis.pdf'
       
   - area: MEng Computer Technology
     institution: Chinese Academy of Sciences 
