@@ -89,7 +89,7 @@ education:
       Thesis on _Research on 4D printing and software robot based on rheological memory characteristics of intelligent materials_. Supervised by [Dr Zhenkun Li](https://faculty.bjtu.edu.cn/9722/).
     button:
       text: 'Read Thesis'
-      url: uploads/Undergraduated Thesis.pdf
+      url: 'https://github.com/GodYaoxxx/academic-website/blob/main/static/uploads/Undergraduated%20Thesis.pdf'
 work:
   - position: Research assistant
     company_name: Rheobot Laboratory
