@@ -1,5 +1,5 @@
 ---
-title: "Study of Dynamic Viscoelasticity of a Mineral Oil-Based Magnetic Fluid"
+title: "Study of dynamic viscoelasticity of a mineral oil-based magnetic fluid"
 authors:
 - Zhanxian Li
 - Yifei Guo

@@ -1,5 +1,5 @@
 ---
-title: "Study of Magnetic Hydrogel 4D Printability and Smart Self‐Folding Structure"
+title: "Study of magnetic hydrogel 4D printability and smart self‐folding structure"
 authors:
 - admin
 - Haoxuan Sun
