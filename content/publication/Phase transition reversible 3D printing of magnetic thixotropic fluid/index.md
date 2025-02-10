@@ -36,7 +36,7 @@ publishDate: "2023-09-08T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Applied Materials Today*, 34 *101920*"
+publication: "*Applied Materials Today*, 34, *101920*"
 publication_short: ""
 
 abstract: Advances in 3D and 4D printing technologies enable the combined design of structure and function in soft robotics. The reversibility of the phase transition in smart materials can provide removable support for the fabrication of thin viscoelastic shells and realize amoeboid locomotion. Here we show that a new dimension of design space can be exploited by controlling the magnetorheological properties of printed structures. A series of magnetic thixotropic fluids (MTFs) was prepared and characterized. Using a specially designed direct ink writing device, the phase transition reversible 3D printing using MTF was first presented. The printability of the MTF was investigated through an insight into its macroscopic and microscopic mechanism within the overall printing process. Multi-material printing of core-shell structures was carried out through an optimized strategy, presenting a prototype of amoeboid locomotion under high magnetic field gradients. This work could contribute to many future applications, such as bionic robots for space exploration, post-disaster search, and even in vivo treatment and drug delivery.
