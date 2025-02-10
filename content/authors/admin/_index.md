@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chengyao deng
+title: Chengyao Deng
 
 # Name pronunciation (optional)
 #name_pronunciation: Chengyao Deng
