@@ -38,7 +38,7 @@ publication_short: ""
 abstract: The reversible phase-change 3D printing technology offers significant advantages in creating magnetic biomimetic soft fixtures. A novel magnetic biomimetic soft gripper is developed using magnetic thixotropic fluid, known for its complex rheological properties. The gripper consists of a modified silicone shell and a magnetic fluid actuator, fabricated using a dual-channel 3D printing platform and a magnetic field module. Various shapes were modeled and simulated, with cylindrical designs proving easy to produce and highly deformable. Refined printing parameters, based on rheological data, enhanced precision and performance. The gripper's variable stiffness, controlled by magnetic field strength, successfully grips POM balls of different sizes, demonstrating its potential in flexible precision clamping, aerospace, and low-friction transmission.
 
 # Summary. An optional shortened abstract.
-summary:''
+summary:
 
 tags:
 - Source Themes
