@@ -41,11 +41,7 @@ publication_short: ""
 
 abstract: Advances in 3D and 4D printing technologies enable the combined design of structure and function in soft robotics. The reversibility of the phase transition in smart materials can provide removable support for the fabrication of thin viscoelastic shells and realize amoeboid locomotion. Here we show that a new dimension of design space can be exploited by controlling the magnetorheological properties of printed structures. A series of magnetic thixotropic fluids (MTFs) was prepared and characterized. Using a specially designed direct ink writing device, the phase transition reversible 3D printing using MTF was first presented. The printability of the MTF was investigated through an insight into its macroscopic and microscopic mechanism within the overall printing process. Multi-material printing of core-shell structures was carried out through an optimized strategy, presenting a prototype of amoeboid locomotion under high magnetic field gradients. This work could contribute to many future applications, such as bionic robots for space exploration, post-disaster search, and even in vivo treatment and drug delivery.
 # Summary. An optional shortened abstract.
-summary: 
-• Novel phase transition reversible 3D printing method based on magnetic thixotropic fluids is reported.
-• The multi-material printing of core-shell structures is conducted through an optimized strategy.
-• A new form of soft robotics named as “rheobot” is proposed and fabricated.
-• Amoeboid locomotion is realized by the controlling of sol-gel transition of magnetic thixotropic fluids in soft robotics.
+summary: Novel phase transition reversible 3D printing method based on magnetic thixotropic fluids is reported. The multi-material printing of core-shell structures is conducted through an optimized strategy. A new form of soft robotics named as “rheobot” is proposed and fabricated. Amoeboid locomotion is realized by the controlling of sol-gel transition of magnetic thixotropic fluids in soft robotics.
 
 tags:
 - Source Themes
